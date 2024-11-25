@@ -1,0 +1,11 @@
+ignore:
+  resource_names:
+      - AccessGrant
+      - AccessGrantsInstance
+      - AccessGrantsLocation
+      - AccessPoint
+      - AccessPointForObjectLambda
+      - Bucket
+      - Job
+      - MultiRegionAccessPoint
+      - StorageLensGroup
